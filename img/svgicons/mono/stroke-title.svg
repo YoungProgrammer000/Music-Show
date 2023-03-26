@@ -1,0 +1,8 @@
+<svg id="svgContent" version="1.1" width="18" preserveAspectRatio="none" height="268" style="position: relative; width: 18px; height: 268px; margin:auto; user-select: none; cursor: default;"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 268">
+<g id="svgPath">
+	<path
+		d="M 6.867 2.750 C 6.130 4.620, 5.936 16.078, 6.262 38.544 C 6.786 74.692, 6.181 94.312, 2.976 145 C 0.509 184.023, -0.970 268, 0.809 268 C 1.402 268, 2.666 266.681, 3.619 265.068 C 5.248 262.310, 5.638 262.170, 10.175 262.707 C 12.829 263.021, 15.009 263.103, 15.021 262.889 C 15.585 252.260, 17.363 117.840, 17.420 81.500 C 17.502 29.484, 16.549 10.669, 13.457 3.250 C 11.720 -0.916, 8.410 -1.167, 6.867 2.750"
+		stroke="none" fill="#841cdc" fill-rule="evenodd"></path>
+	</g>
+</svg>
