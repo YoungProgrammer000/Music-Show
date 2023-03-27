@@ -1,9 +1,10 @@
 Проект, созданный с нуля по готовому макету для личной практики.
-Использованные технологии:
-GULP
-HTML
-CSS(SCSS)
-JAVASCRIPT
-GSAP / ScrollTrigger
-Работа с SVG icons / Анимация SVG
-Swiper
+
+<br />Использованные технологии:
+<br />GULP
+<br />HTML
+<br />CSS(SCSS)
+<br />JAVASCRIPT
+<br />GSAP / ScrollTrigger
+<br />Работа с SVG icons / Анимация SVG
+<br />Swiper
