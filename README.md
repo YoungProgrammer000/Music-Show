@@ -7,4 +7,5 @@
 <br />JAVASCRIPT
 <br />GSAP / ScrollTrigger
 <br />Работа с SVG icons / Анимация SVG
-<br />Swiper
+<br /> Anime.js
+<br />Swiper.js
